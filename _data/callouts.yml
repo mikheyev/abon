@@ -1,0 +1,25 @@
+style: is-light
+height: is-medium
+items:
+  - title: What we do
+    subtitle: Understanding the spread and impact of Varroa is a principal goal of ABON.
+    icon: fa-question
+    description: >
+      Varroa mite (<i>Varroa destructor</i>) are deadly parasites that kill colonies by transmitting deadly viruses.
+    call_to_action_name: Learn about ABON
+    call_to_action_link: about  
+  - title: About Varroa mites
+    subtitle: Understanding the spread and impact of Varroa is a principal goal of ABON.
+    icon: fa-bug
+    description: >
+      Varroa mite (<i>Varroa destructor</i>) are deadly parasites that kill colonies by transmitting deadly viruses.
+    call_to_action_name: Learn about Varroa
+    call_to_action_link: varroa
+  - title: Our sites
+    subtitle: Where the monitoring sites are located.
+    icon: fa-globe-asia
+    description: >
+      ABON is run by volunteers that trap swarms to learn about bees and their pathogens.
+    call_to_action_name: See the site locations
+    call_to_action_link: sites
+
