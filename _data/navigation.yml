@@ -1,7 +1,10 @@
 - name: About
   link: about
+  dropdown: 
+    - name: People
+      link: people
+    - name: FAQ
+      link: faq
+
 - name: Protocols
   link: /protocols/
-  # dropdown: 
-  #   - name: Page 2
-  #     link: /page-2/

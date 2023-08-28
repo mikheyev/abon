@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: "Australian Bee Observation<br>Network (ABON)"
+subtitle: Citizen-scientists<br>monitoring bee health
 hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
+hero_link: contact
+hero_link_text: Contact us
 show_sidebar: false
 callouts: example_callouts
-hero_image: https://i.pinimg.com/originals/a9/53/46/a953461084e1a534b3581b426255f1c2.jpg
+hero_image: assets/img/bee.jpg
 ---
 
 This is an example landing page. It is built using the Hero and Callouts.
