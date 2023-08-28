@@ -20,3 +20,8 @@ You can read more about Varroa mites [here](https://www.anu.edu.au/news/all-news
 In short, no. 
 
 However, the reality of varroa’s impact is much more complicated than that. Worldwide, bee populations have shown an ability to evolve resistance to the mites. Managed colonies will most likely have to be treated with chemicals to manage Varroa levels, but that's been the worldwide practice for decades. There is novel and exciting research on Varroa control that will rely less on chemicals going forward.
+
+### Are native bees in danger?
+Varroa mites are very host-specific and there is no chance of them switching to Australian native bees, which are only distantly related to honey bees. However, there is evidence that Varroa-vectored viruses spill over into native ecosystems, and we should study their effects to make sure no harm is done.
+
+A predicted decline in feral honey bee populations may even benefit native bees, as they are generally out-competed by the honey bees for floral resources.
