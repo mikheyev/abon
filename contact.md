@@ -1,9 +1,8 @@
 ---
 layout: page
-hide_footer: true
 title: Contact ABON
 subtitle: If you are interested in hosting a site, or have questions about the project, please contact us using the form below. We will not spam you.
-height: is-small
+hero_height: is-small
 ---
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xnqkdybn" method="post">

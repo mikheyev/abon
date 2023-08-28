@@ -4,6 +4,7 @@ title: Frequently Asked Questions
 subtitle: Everything you need to know about ABON
 toc: true
 toc_title: FAQ
+hero_height: is-small
 ---
 
 ## What do you hope to achieve?
