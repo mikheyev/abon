@@ -1,9 +1,19 @@
 ---
 layout: page
-title: Contact ABON
+title: Getting involved
 subtitle: If you are interested in hosting a site, or have questions about the project, please contact us using the form below. We will not spam you.
 hero_height: is-small
 ---
+
+## Getting involved
+
+Are you a beekeeper willing to help out in hosting a site on a patch of your land? Do you have time to visit the bees a few times a month and collect any swarms that may appear? If so, we would love to hear from you. We will provide all the material to trap swarms, collect samples and mail them back, so all you need to donate is a bit of your time.
+
+Each site is an array of ten swarm traps spaced 100 meters apart and supported by star pickets. Site setup and inspection should be a breeze. We would like to run the sites for a few years at the least, so that's the only kind of commitment we're looking for. 
+
+Why do it? You will be on the front lines of seeing the massive ecologial and evolutionary changes brought on by Varroa. We will provide data to our network members as they come it, so you will be able to see the results of your work in real time.
+
+<!-- photo of a swarm trap -->
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xnqkdybn" method="post">
   <fieldset id="fs-frm-inputs">

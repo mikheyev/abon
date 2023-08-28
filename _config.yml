@@ -33,3 +33,4 @@ plugins:
   - jekyll-feed
 
 remote_theme: chrisrhymes/bulma-clean-theme
+keep_files: ["CNAME"]
