@@ -2,10 +2,10 @@ style: is-light
 height: is-medium
 items:
   - title: What we do
-    subtitle: Understanding the spread and impact of Varroa is a principal goal of ABON.
+    subtitle: The network is focused on a range of questions surrounding honey bee health.
     icon: fa-question
     description: >
-      Varroa mite (<i>Varroa destructor</i>) are deadly parasites that kill colonies by transmitting deadly viruses.
+      The network is a collaboration between beekeepers, scientists and the public aimed at collecting data on honey bee health, genetics and their ecological interactions.
     call_to_action_name: Learn about ABON
     call_to_action_link: about  
   - title: About Varroa mites
