@@ -1,7 +1,11 @@
 - title: ANU Scientists
   images:
-    - link: https://biology.anu.edu.au/files/styles/anu_doublenarrow_440_587/public/Alexander-Mikheyev.jpg
+    - link: ./assets/img/people/Sasha.jpg 
       alt: Sasha Mikheyev
       description: |-
-        Project lead
-      ratio: is-3by4
+        Sasha Mikheyev, Project lead
+    - link: ./assets/img/people/Clarisa.png 
+      alt: Clarisa Dity Andari
+      description: |-
+        <a href="https://www.linkedin.com/in/clarisandari/">Clarisa Dity Andari</a> is a Ph.D. student in Environmental Sciences at Universitas Padjadjaran in Indonesia, visiting ANU on a Future Research Talent scholarship. 
+
