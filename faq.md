@@ -10,6 +10,13 @@ hero_height: is-small
 ## What do you hope to achieve?
 We are collecting baseline data about honey bees -- population levels, genetic structure, their pathogens, as well as what plants they pollinate. The network acts as an early warning system for Varroa, and provides a wealth of data about bee populations, and how they may change if Varroa becomes established.This information is crucial in furthering investigation of the ecological role of honey bees, and aims to help protect food security by providing information on the potential impact of Varroa on honey bees and pollination services.
 
+### Why the focus on feral honey bees?
+
+Feral honey bees exist a densities of up to 100 colonies per km<sup>2</sup>, their numbers dwarfing the managed bee population. Yet, because of their well-hidden nests, we know little about them. We want to know how they are different from managed bees, and how they will respond to Varroa. Importantly, feral honey bees have quickly evolved resistance to Varroa, and we hope to harness these genes to eventually breed managed bees that are also resistant to Varroa.
+
+However, it's not really possible
+
+
 ## Varroa
 ### What is Varroa? Where did it come from?
 Varroa mites (*Varroa destructor*) were native mite to a close relative of the western honey bee (*Apis mellifera*). Western honey bees are used in beekeeping worldwide, but were originally limited to Africa, Europe, and the Middle East. They were brought to Asia, where in the mid-20th century Varroa mites adopted them as a new host. Since then, Varroa mites have spread worldwide, spreading deadly viruses, and leading to widespread bee population collapses. 

@@ -12,4 +12,4 @@ This excellent video was made by [Dr. A.E. Latimer](https://aelawild.com). You c
 
 ## Varroa in Australia
 
-Varroa was originally found in the eastern honey bee (*Apis cerana*), the sister species to western honey bees. It was first detected new Newcastle in the winter of 
+Varroa was originally found in the eastern honey bee (*Apis cerana*), the sister species to western honey bees. It was first detected new Newcastle in the winter of 2022 and has been spreading ever since.
