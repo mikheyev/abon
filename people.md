@@ -1,5 +1,5 @@
 ---
 layout: page
 title: People
-gallery: people
+gallery: anu_staff
 ---

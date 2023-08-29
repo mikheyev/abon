@@ -2,10 +2,10 @@ style: is-light
 height: is-medium
 items:
   - title: What we do
-    subtitle: The network is focused on a range of questions surrounding honey bee health.
+    subtitle: The network is a collaboration between beekeepers, scientists and the public aimed at collecting data feral honey bees. 
     icon: fa-question
     description: >
-      The network is a collaboration between beekeepers, scientists and the public aimed at collecting data on honey bee health, genetics and their ecological interactions.
+      Feral honey bees are often ignored, but they are important for pollination and are a valuable resource for beekeepers. In addition, they will be the laboratory where resistance to Varroa will evolve.
     call_to_action_name: Learn about ABON
     call_to_action_link: about  
   - title: About Varroa mites
