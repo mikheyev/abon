@@ -5,7 +5,7 @@ subtitle: If you are interested in hosting a site, or have questions about the p
 hero_height: is-small
 ---
 
-Are you a beekeeper willing to help out in hosting a site on a patch of your land away from managed hives? Do you have time to visit the bees a few times a month and collect any swarms that may appear? If so, we would love to hear from you. We will provide all the material to trap swarms, collect samples and mail them back, so all you need to donate is a bit of your time.
+Are you a registered beekeeper willing to help out in hosting a site on a patch of your land away from managed hives? Do you have time to visit the bees a few times a month and collect any swarms that may appear? If so, we would love to hear from you. We will provide all the material to trap swarms, collect samples and mail them back, so all you need to donate is a bit of your time.
 
 Each site is an array of ten swarm traps spaced 100 meters apart and supported by star pickets. Site setup and inspection should be a breeze. We would like to run the sites for a few years at the least, so that's the only kind of commitment we're looking for. 
 
