@@ -12,12 +12,12 @@ We are collecting baseline data about honey bees -- population levels, genetic s
 
 ### Why the focus on feral honey bees?
 
-Feral honey bees exist a densities of up to 100 colonies per km<sup>2</sup>, their numbers dwarfing the managed bee population. Yet, because of their well-hidden nests, we know little about them. We want to know how they are different from managed bees, and how they will respond to Varroa. Importantly, feral honey bees have quickly evolved resistance to Varroa, and we hope to harness these genes to eventually breed managed bees that are also resistant to Varroa.
+Feral honey bees exist at densities of up to 100 colonies per km<sup>2</sup>, their numbers dwarfing the managed bee population. Yet, because of their well-hidden nests, we know little about them. We want to know how they are different from managed bees, and how they will respond to Varroa. Importantly, feral honey bees have quickly evolved resistance to Varroa, and we hope to harness these genes to eventually breed managed bees that are also resistant to Varroa.
 
 
 ## Varroa
 ### What is Varroa? Where did it come from?
-Varroa mites (*Varroa destructor*) were native mite to a close relative of the western honey bee (*Apis mellifera*). Western honey bees are used in beekeeping worldwide, but were originally limited to Africa, Europe, and the Middle East. They were brought to Asia, where in the mid-20th century Varroa mites adopted them as a new host. Since then, Varroa mites have spread worldwide, spreading deadly viruses, and leading to widespread bee population collapses. 
+Varroa mites (*Varroa destructor*) were native mites to a close relative of the western honey bee (*Apis mellifera*). Western honey bees are used in beekeeping worldwide, but were originally limited to Africa, Europe, and the Middle East. They were brought to Asia, where in the mid-20th century Varroa mites adopted them as a new host. Since then, Varroa mites have spread worldwide, spreading deadly viruses and leading to widespread bee population collapses. 
 
 You can read more about Varroa mites [here](https://www.anu.edu.au/news/all-news/here%E2%80%99s-what-you-need-to-know-about-the-varroa-mite).
 
