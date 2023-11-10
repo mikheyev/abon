@@ -24,9 +24,9 @@ The equipment in the following diagram is supplied for the purposes of sending s
 We ask that the bait hives examined at least monthly for bee activity, and once a swarm has been detected, it should immediately be sampled and cleared, freeing the box to be re-used for the next potential European honey bee swarm.
 Be aware that sometimes - particularly at sites located in northern NSW and Queensland - the bait hive may be occupied by Australian native bees of the Tetragonula and Austroplebeia spp. These Australian native social bees are easily distinguised from European Honeybees by their much smaller size. Care should be taken to rehome these colonies. We recommend you get in touch with the local branch of the [Australian Native Bee Association](https://www.anba.org.au/) for assistance in re-homing these native bee colonies if you are not skilled or equipped to care for them. 
 Sampling will involve the following steps:
-1.	Collect approximately 200-500 workers (about 1 cup) into one of the supplied sampling jar. 
-2.	Collect two 30 cm2 comb samples containing at least 10 pollen and 20 brood cells. 
-3.	Using two separate sample jars, fill one sample jar with bees and the other with the honeycomb samples. Cover both samples with the supplied ethanol – usually about 60-80 percent of the volume of the sampling jar Only use the supplied ethanol. Do not use methylated spirit as this has additives which may damage the sample. 
+1.	Collect approximately 200-500 workers (about 1 cup). 
+2.	Most likely a colony may have occupied a swarm trap for a sufficient time to laydown some comb. If possible, collect two comb samples containing at least 10 pollen and 20 brood cells. 
+3.	Using two separate sample jars, fill one sample jar with bees and the other with the honeycomb samples. Cover both samples with the supplied ethanol – usually about 60-80 percent of the volume of the sampling jar. Please only use the supplied ethanol. Do not use methylated spirit as this has additives which may damage the sample. 
 4.	Seal each jar with the supplied tape ensuring coverage of the join of the lid around the entire circumference of the sampling container. 
 <<insert picture>> Packing samples
 5.	Label each jar and the resealable plastic bag with the location code and date
