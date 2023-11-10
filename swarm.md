@@ -1,4 +1,4 @@
-##Full Equipment List
+## Full Equipment List
 Each node/site consists of upto 10 bait hives. The equipment supplied for each node is as follows:
 
 •	10 x assembled 40L nucleus hive boxes with identification labels and warning signage
