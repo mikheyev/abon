@@ -18,9 +18,11 @@ Each node/site consists of upto 10 bait hives. The equipment supplied for each n
 
 The equipment in the following diagram is a subset of the list above and is supplied for the purposes of sending samples to the ANU. Each beekeeper will receive an initial allocation sufficient for four tests and return-mail labels to the Mikheyev Lab at the ANU in Canberra.
 
-<<insert picture>> Single sampling kit
-
-## Sampling Process
+<img src="./assets/img/SamplingKitPicture1.jpg"
+  alt="Sampling Kit"
+  style="float: left; margin-right: 10px;" />
+  
+  ## Sampling Process
 We ask that the bait hives examined at least monthly for bee activity, and once a swarm has been detected, it should immediately be sampled and cleared, freeing the box to be re-used for the next potential European honey bee swarm.
 Be aware that sometimes - particularly at sites located in northern NSW and Queensland - the bait hive may be occupied by Australian native bees of the Tetragonula and Austroplebeia spp. These Australian native social bees are easily distinguised from European Honeybees by their much smaller size. Care should be taken to rehome these colonies. We recommend you get in touch with the local branch of the [Australian Native Bee Association](https://www.anba.org.au/) for assistance in re-homing these native bee colonies if you are not skilled or equipped to care for them. 
 Sampling will involve the following steps:
