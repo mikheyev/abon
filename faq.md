@@ -7,8 +7,8 @@ toc_title: FAQ
 hero_height: is-small
 ---
 
-## What do you hope to achieve?
-We are collecting baseline data about honey bees -- population levels, genetic structure, their pathogens, as well as what plants they pollinate. The network acts as an early warning system for Varroa, and provides a wealth of data about bee populations, and how they may change if Varroa becomes established.This information is crucial in furthering investigation of the ecological role of honey bees, and aims to help protect food security by providing information on the potential impact of Varroa on honey bees and pollination services.
+## What do we hope to achieve?
+We are collecting baseline data about honey bees -- population levels, genetic structure, their pathogens, as well as what plants they pollinate. The network acts as an early warning system for Varroa, and provides a wealth of data about bee populations and how they may change if Varroa becomes established.This information is crucial in furthering investigation of the ecological role of honey bees, and aims to help protect food security by providing information on the potential impact of Varroa on honey bees and pollination services.
 
 ### Why the focus on feral honey bees?
 
@@ -27,15 +27,18 @@ In short, no.
 However, the reality of varroa’s impact is much more complicated than that. Worldwide, bee populations have shown an ability to evolve resistance to the mites. Managed colonies will most likely have to be treated with chemicals to manage Varroa levels, but that's been the worldwide practice for decades. There is novel and exciting research on Varroa control that will rely less on chemicals going forward.
 
 ### Are native bees in danger?
-Varroa mites are very host-specific and there is no chance of them switching to Australian native bees, which are only distantly related to honey bees. However, there is evidence that Varroa-vectored viruses spill over into native ecosystems, and we should study their effects to make sure no harm is done.
+Varroa mites are very host-specific and there is no chance of them switching to Australian native bees, which are only distantly related to honey bees. However, there is evidence that Varroa-vectored viruses spill over into native ecosystems, and we should study their effects to understand this dynamic and mitigate any potential harm.
 
 A predicted decline in feral honey bee populations may even benefit native bees, as they are generally out-competed for floral resources.
 
 ## How can I help?
 
-- If you are a registered beekeeper (either recreational or commercial), you can join the network by hosting a site. We will provide all the material to trap swarms, collect and prepare samples; and, mail them back. We require you to donate your time to check the swarm traps once very two to three weeks and commit to surveys for three years.
+- You can join the network by [registering on the website](https.abon.net) and hosting some bait hives. We will provide all the material to trap swarms, collect and prepare samples; and, mail them back. We require you to donate your time to check the swarm traps once very two to three weeks and commit to surveys for three years.
 
 - If you are a student, you can check out [ongoing research projects](https://biology.anu.edu.au/research/research-groups/mikheyev-group-evolutionary-genomics#acton-tabs-link--tabs-group_tabs_biology-middle-3) or [contact us](./contact) to discuss potential projects.
+
+## Are there any skills or pre-requisites to joing the programme ?
+You must be a registered beekeeper - either recreational or commercial. 
 
 ### I am in a Management Emergency Zone (MEZ), can I participate?
 
