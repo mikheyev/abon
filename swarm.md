@@ -1,9 +1,9 @@
 ## Full Equipment List
 Each node/site consists of upto 10 bait hives. The equipment supplied for each node is as follows:
 
-•	10 x assembled 40L nucleus hive boxes with identification labels and warning signage
-•	30 x full depth frames and new wax foundation 
-•	20 x star pickets and mountings for nucleus boxes
+- 10 x assembled 40L nucleus hive boxes with identification labels and warning signage
+- 30 x full depth frames and new wax foundation 
+- 20 x star pickets and mountings for nucleus boxes
 •	1 x 200mL swarm lure and sprayer.
 •	8 x 250mL plastic sample jars
 •	4 x cardboard mailing box (approx 190mm x 100mm x 100mm)
