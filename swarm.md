@@ -30,10 +30,18 @@ Sampling will involve the following steps:
 2.	Most likely a colony may have occupied a swarm trap for a sufficient time to laydown some comb. If possible, collect two comb samples containing at least 10 pollen and 20 brood cells. 
 3.	Using two separate sample jars, fill one sample jar with bees and the other with the honeycomb samples. Cover both samples with the supplied ethanol – usually about 60-80 percent of the volume of the sampling jar. Please only use the supplied ethanol. Do not use methylated spirit as this has additives which may damage the sample. 
 4.	Seal each jar with the supplied tape ensuring coverage of the join of the lid around the entire circumference of the sampling container. 
-<<insert picture>> Packing samples
+
+<img src="./assets/img/SamplingKitPicture2.jpg"
+  alt="Sampling Kit"
+  style="float: left; margin-right: 10px;" />
+  
 5.	Label each jar and the resealable plastic bag with the location code and date
 6.	Wrap the sampling jars in the supplied box using the foam and bubble wrap make a snug fit so the sample jars do not move around inside the cardboard container. 
-<<insert picture>> Packing samples
+
+<img src="./assets/img/SamplingKitPicture3.jpg"
+  alt="Sampling Kit"
+  style="float: left; margin-right: 10px;" />
+
 7.	Take the packaged sample to your local Australia Post Office or agent for return to ANU. The packaging container is pre-paid, addressed and labelled appropriately for postal without further input from the participating beekeeper. 
 
 After sampling, European honeybee colonies maybe transferred to another hive or euthanised in accordance with NSW DPI procedures.
