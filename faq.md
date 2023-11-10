@@ -37,7 +37,7 @@ A predicted decline in feral honey bee populations may even benefit native bees,
 
 - If you are a student, you can check out [ongoing research projects](https://biology.anu.edu.au/research/research-groups/mikheyev-group-evolutionary-genomics#acton-tabs-link--tabs-group_tabs_biology-middle-3) or [contact us](./contact) to discuss potential projects.
 
-## Are there any skills or pre-requisites to joing the programme ?
+### Are there any skills or pre-requisites to join the programme ?
 You must be a registered beekeeper - either recreational or commercial. 
 
 ### I am in a Management Emergency Zone (MEZ), can I participate?
